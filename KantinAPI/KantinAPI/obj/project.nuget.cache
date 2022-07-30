@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aqjQfNLEvXDmjFv4fKFTqYSJquNxlGhsCGsrLSJG+/6qt9RaLWT8sDfBP6tCnoQ3N0Kd8guYEn5TTSL0CFf/0A==",
+  "dgSpecHash": "uo7gm2QYx1Xv0/CtJesqg/fe++NPseZs2qkeuxB7hORMQ7RsHsLUvzryTxck4kQdprdgRFp73/57LYCkjoF8HQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\abdul\\OneDrive\\Masaüstü\\KantinApplication\\KantinAPI\\KantinAPI\\KantinAPI.csproj",
+  "projectFilePath": "C:\\Users\\abdul\\OneDrive\\Belgeler\\GitHub\\KantinApplicationHost\\KantinAPI\\KantinAPI\\KantinAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\abdul\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\abdul\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
